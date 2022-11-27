@@ -1,5 +1,5 @@
 # <h1 align="center">👋 Hi, I’m Siva Reddy</h1>
-<!-- ![Siva](https://pbs.twimg.com/profile_images/1596685245172137986/rdHw57KR_400x400.jpg) --->
+![Siva](https://twitter.com/sivareddy184/photo) 
 - 💻 I'm Currently Working on *Manual testing.*
 - 🪴 I'm Currently learning *Python.*
 - 🐧 I'm looking for a Coding Partner.
