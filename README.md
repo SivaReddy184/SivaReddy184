@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SivaReddy184
-- 👀 Goal: DevOps engineer
+- 👀 Goal: DevOps Engineer
 - 🌱 Currently working as a Manual tester.
+- 🐍 Doing 100 days of Python.
 - 💚 Find me on Twitter to collaborate👉👉https://twitter.com/sivareddy184
 
 
