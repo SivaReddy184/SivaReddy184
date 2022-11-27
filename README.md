@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Siva Reddy
-- 💻 I'm Currently Working on Manual testing.
-- 🪴 I'm Currently learning Python.
+- 💻 I'm Currently Working on *Manual testing.*
+- 🪴 I'm Currently learning *Python.*
 - 🐧 I'm looking for a Coding Partner.
 - 🐍 Doing 100 days of Python.
-- 💚 Find me on Twitter to collaborate👉👉**https://twitter.com/sivareddy184**
+- 💚 Find me on Twitter to collaborate👉👉[🐦SivaReddy184](https://twitter.com/sivareddy184)
 
 
 <!---
