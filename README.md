@@ -1,7 +1,7 @@
 # <h1 align="center">👋 Hi, I’m Siva Reddy</h1>
-<p align="center">
+<!--<p align="center">
      <img width="200" src="https://i.postimg.cc/Dw2SZmrS/save-sivareddy.jpg" alt="Siva Reddy" align="center">
-</p>
+</p>--->
 
 - 💻 I'm Currently Working on *Manual testing.*
 - 🪴 I'm Currently learning *Python.*
