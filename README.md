@@ -5,7 +5,6 @@
 
 - 💻 I'm Currently Working on *Manual testing.*
 - 🪴 I'm Currently learning *Python.*
-- 🐧 I'm looking for a Coding Partner.
 - 🐍 Doing 100 days of Python.
 - 💚 Find me on Twitter to collaborate
 
