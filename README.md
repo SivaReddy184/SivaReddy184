@@ -3,7 +3,7 @@
      <img width="200" src="https://i.postimg.cc/Dw2SZmrS/save-sivareddy.jpg" alt="Siva Reddy" align="center">
 </p>--->
 
-- 💻 I'm Currently Working on *Manual testing.*
+- 💻 I'm Currently Working as *Test Analyst.*
 - 🪴 I'm Currently learning *Python.*
 - 🐍 Doing 100 days of Python.
 - 💚 Visit my Twitter and Linkedin Profiles. 
