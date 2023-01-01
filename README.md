@@ -4,9 +4,9 @@
 </p>--->
 
 - 💻 I'm Currently Working as *Test Analyst.*
-- 🪴 I'm Currently learning *Python.*
-- 🐍 Doing 100 days of Python.
-- 💚 Visit my Twitter and Linkedin Profiles. 
+- 🪴 I'm Currently learning *DevOps.*
+- 🐍 Completed 50 days of Python.
+- 💚 Follow and connect with me😊 on Twitter and Linkedin. 
 
    [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/sivareddy184) 
    [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/venkata-siva-reddy-m/)
