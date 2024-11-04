@@ -3,9 +3,9 @@
      <img width="200" src="https://i.postimg.cc/Dw2SZmrS/save-sivareddy.jpg" alt="Siva Reddy" align="center">
 </p>--->
 
-- 💻 I'm Currently Working as *Test Analyst.*
+- 💻 I'm a *Test Analyst.*
 - 🪴 I'm Currently learning *DevOps.*
-- 🐍 Completed 50 days of Python.
+- 🐍 Python Explorer.
 - 💚 Follow and connect with me😊 on Twitter and Linkedin. 
 
    [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/sivareddy184) 
