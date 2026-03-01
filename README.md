@@ -1,11 +1,11 @@
-# <h1 align="center">👋 Hi, I’m Siva Reddy</h1>
+# <h1 align="center">👋 Hi, Siva Reddy Here</h1>
 <!--<p align="center">
      <img width="200" src="https://i.postimg.cc/Dw2SZmrS/save-sivareddy.jpg" alt="Siva Reddy" align="center">
 </p>--->
 
-- 💻 I'm a *Test Analyst.*
-- 🪴 I'm Currently learning *DevOps.*
-- 🐍 Python Explorer.
+- 💻 I'm a *Test Automation Engineer.*
+- 🪴 I'm Currently learning about *LLMs.*
+- 🐍 Tech Explorer.
 - 💚 Follow and connect with me😊 on Twitter and Linkedin. 
 
    [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/sivareddy184) 
