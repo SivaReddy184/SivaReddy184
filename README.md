@@ -1,29 +1,14 @@
-# <h1 align="center">👋 Hi, Siva Reddy Here</h1>
-<!--<p align="center">
-     <img width="200" src="https://i.postimg.cc/Dw2SZmrS/save-sivareddy.jpg" alt="Siva Reddy" align="center">
-</p>--->
+# Projects
 
-- 💻 I'm a *Test Automation Engineer.*
-- 🪴 I'm Currently learning about *LLMs.*
-- 🐍 Tech Explorer.
-- 💚 Follow and connect with me😊 on Twitter and Linkedin. 
+## Recent Work
 
-   [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/sivareddy184) 
-   [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/venkata-siva-reddy-m/)
-<!-- [🐦SivaReddy184](https://twitter.com/sivareddy184)---> 
-   
-<!--<img 
-   src="https://github-readme-stats.vercel.app/api?username=SivaReddy184&show_icons=true&theme=tokyonight" 
-/>--->
-    
+### Test Automation
+- **WW-Automation-with-Python-Selenium**: [Link to Project](https://github.com/SivaReddy184/WW-Automation-with-Python-Selenium)
 
+### GitHub Actions
+- **ghA-Containers**: [Link to Project](https://github.com/SivaReddy184/ghA-Containers)
+- **ghA-Custom-Composite-Actions**: [Link to Project](https://github.com/SivaReddy184/ghA-Custom-Composite-Actions)
+- **GActions-Challenge-Project**: [Link to Project](https://github.com/SivaReddy184/GActions-Challenge-Project)
 
-
-
-
-
-
-<!---
-SivaReddy184/SivaReddy184 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Python DSA Projects
+- **DSA_python**: [Link to Project](https://github.com/SivaReddy184/DSA_python)
