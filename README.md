@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/SivaReddy184" target="_blank"><img src="https://img.shields.io/badge/GitHub-@SivaReddy184-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/siva-reddy-184" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/venkata-siva-reddy-m/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://twitter.com/sivareddy184" target="_blank"><img src="https://img.shields.io/badge/Twitter-%40sivareddy184-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
 </p>
 
@@ -14,7 +14,8 @@
 
 I am a passionate Software Developer in Test (SDET) focused on building reliable, scalable, and efficient automation frameworks. I enjoy solving real-world testing problems, shipping clean automation strategies, and exploring AI-driven quality engineering.
 
-- 💻 Software Developer in Test (SDET)
+- 💻 Senior Automation Engineer
+- 🥳 Vibecoding and transforming ideas into real Products
 - 🧠 Exploring LLMs and AI-powered automation
 - 🐍 Python-first, QA automation enthusiast
 - ☁️ Interested in cloud, CI/CD, and modern engineering workflows
@@ -26,7 +27,7 @@ I am a passionate Software Developer in Test (SDET) focused on building reliable
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
 
 ### Automation & Tools
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
@@ -43,7 +44,7 @@ I am a passionate Software Developer in Test (SDET) focused on building reliable
 ## Top Work
 
 ### Pantry Burn 🔥
-A smart pantry management app designed to help users track what they have, avoid food waste, and get timely reminders before items expire.
+A smart pantry management app designed to help users track what they have, and get timely reminders before items expire.
 
 - Inventory tracking for pantry items
 - Expiry reminders and usage alerts
