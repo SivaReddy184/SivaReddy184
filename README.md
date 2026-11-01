@@ -53,27 +53,6 @@ A smart pantry management app designed to help users track what they have, and g
 
 [![Repository](https://img.shields.io/badge/View_Project-Pantry_Burn-7C3AED?style=for-the-badge)](https://github.com/SivaReddy184/Pantry_burn)
 
-## Featured Projects
-
-### 1. Project Management Tool
-A web app for organizing projects, tasks, and team collaboration.
-
-- Task planning and workflow coordination
-- Role-based project tracking
-- Built to manage day-to-day operations efficiently
-
-[View Project](https://github.com/SivaReddy184/project-management-tool)
-
-### 2. Personal Blog
-A blog platform for sharing technical ideas, learning notes, and software engineering experiences.
-
-[View Project](https://github.com/SivaReddy184/personal-blog)
-
-### 3. E-commerce Website
-A storefront application for browsing, buying, and selling products with integrated payment flows.
-
-[View Project](https://github.com/SivaReddy184/e-commerce-website)
-
 ## Current Focus
 
 - Building AI-driven automation frameworks
